@@ -57,10 +57,10 @@ local LocalPlayer = Players.LocalPlayer
 local Camera      = workspace.CurrentCamera
 
 -- ─── Config ──────────────────────────────────────────────────────────────────
-local HOVER_HEIGHT    = 20
+local HOVER_HEIGHT    = 30
 local BEHIND_DISTANCE = 18
 local MIN_HEIGHT      = 10
-local FIRE_RATE       = 0.5
+local FIRE_RATE       = 0.1
 local AIM_SMOOTH      = 0.12
 
 local TRACER_COLOR    = Color3.fromRGB(0, 140, 255)
